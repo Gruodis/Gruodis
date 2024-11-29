@@ -1,17 +1,18 @@
 ## Hi there 👋
+Invoyer Technologies
+Frontend Developer
+January 2023 - Present (1 year 4 months)
 
-[![Aure GitHub stats](https://github-readme-stats.vercel.app/api?username=Gruodis)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**Gruodis/Gruodis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Development of B2B and B2C systems for business solutions.
+Creation and implementation of design elements for the Laravel framework.
+Building corporate websites and e-commerce platforms.
+UI/UX and typography design for enhancing user experience.
+Ensuring code quality for existing projects.
+Tools and technologies used:
 
-Here are some ideas to get you started:
+* Design: Figma, Adobe XD
+* Version Control and Tools: GitHub, Vite.js
+- Frontend Development: Vue.js, Nuxt.js, Alpine.js, HTML, SCSS, Tailwind CSS, JavaScript, JQuery
+- Backend Development: PHP, MySQL
+- CMS Platforms: PrestaShop, B2B, B2C systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
