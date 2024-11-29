@@ -4,9 +4,7 @@ Frontend Developer
 January 2023
 - Present (1 year 4 months)
 
-![figma](https://github.com/user-attachments/assets/fefbf984-8c3b-4482-924a-f48917deeaed)
-
-<img width="64" alt="Figma" src="https://github.com/user-attachments/assets/fefbf984-8c3b-4482-924a-f48917deeaed"></p>
+<img width="36" alt="Figma" src="https://github.com/user-attachments/assets/fefbf984-8c3b-4482-924a-f48917deeaed"></p>
 
 Development of B2B and B2C systems for business solutions.
 Creation and implementation of design elements for the Laravel framework.
