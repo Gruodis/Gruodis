@@ -6,6 +6,8 @@ January 2023
 
 ![figma](https://github.com/user-attachments/assets/fefbf984-8c3b-4482-924a-f48917deeaed)
 
+<img width="64" alt="Figma" src="[https://github.com/user-attachments/assets/fefbf984-8c3b-4482-924a-f48917deeae]"></p>
+
 Development of B2B and B2C systems for business solutions.
 Creation and implementation of design elements for the Laravel framework.
 Building corporate websites and e-commerce platforms.
