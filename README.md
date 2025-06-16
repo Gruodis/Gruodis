@@ -1,7 +1,7 @@
 # Frontend Developer
 
-- Vue.js,
-- Nuxt.js,
+- React,
+- Next.js,
 - Handlebars.js,
 - Vite.js
 - Webpack,
